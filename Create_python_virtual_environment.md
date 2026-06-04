@@ -1,8 +1,4 @@
-Python Environment Setup:
-
-
-
-Windows: Machine
+# Windows: Machine
 
 ## Add new Python environment
 python -m venv venv
@@ -22,7 +18,7 @@ rmdir /s /q venv
 
 
 
-Mac or Linux:
+# Mac or Linux:
 
 
 
